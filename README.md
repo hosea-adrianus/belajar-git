@@ -1,4 +1,4 @@
-# **Hosea Adrianus**
+# **[S2 - Tugas 1 - Git] Hosea Adrianus**
 
 - Git Init
 ![Git init](img/Git-init.png)
