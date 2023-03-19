@@ -5,6 +5,7 @@
 - Git Init
 ![Git init](img/Git-init.png)
 
+<<<<<<< HEAD
 - Git Add dan Commit: Parent MainHosea
 ![Git Add dan Commit](img/Git-add-commit.png)
 
@@ -28,6 +29,4 @@
 
 - Git Checkout Branch Remote
 ![asd](img/Git-checkout-branch-remote.png)
-
-
 
